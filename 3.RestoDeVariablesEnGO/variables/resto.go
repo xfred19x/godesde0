@@ -15,6 +15,7 @@ var Sueldo float32
 // Con esta variable podemos obtener la hora actual, adicionar fechas, etc.
 var Fecha time.Time
 
+// 1ra forma declarar una funcion, sin parametros de entrada
 func RestoVariables() {
 	Nombre = "Pedro"
 	Estado = true
