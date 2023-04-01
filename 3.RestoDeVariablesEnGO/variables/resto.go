@@ -17,6 +17,7 @@ var Fecha time.Time
 
 // 1ra forma declarar una funcion, sin parametros de entrada
 func RestoVariables() {
+
 	Nombre = "Pedro"
 	Estado = true
 	Sueldo = 1577.66
